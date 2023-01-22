@@ -1,0 +1,6 @@
+
+ip netns exec red ping 192.168.15.2
+
+ip netns exec red arp
+ip netns exec blue aro
+arp
